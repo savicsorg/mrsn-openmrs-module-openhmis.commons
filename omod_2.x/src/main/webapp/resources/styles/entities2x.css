@@ -354,7 +354,7 @@ fieldset.nested .table-layout li{
     vertical-align: middle;
     padding: 0px;
 }
-fieldset.nested .table-layout .searchclear{
+fieldset.nested .table-layout{
     top:5px;
 }
 fieldset.nested .manage-entities-table{
